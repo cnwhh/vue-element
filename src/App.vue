@@ -1,9 +1,16 @@
+<!--
+ * @Descripttion: 
+ * @Author: Wanghuihui
+ * @Date: 2022-01-25 14:12:37
+ * @LastEditors: Wanghuihui
+-->
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
